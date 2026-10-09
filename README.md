@@ -46,7 +46,7 @@ Tools for finding, enriching, cleaning, validating, and maintaining company and 
 - [Crunchbase](https://www.crunchbase.com/) - A company intelligence platform for researching companies, funding, investors, acquisitions, leadership, and growth signals.
 - [Ocean.io](https://www.ocean.io/) - A B2B data platform for finding lookalike companies, building account lists, and using company data in GTM workflows.
 - [HG Insights](https://hginsights.com/) - A revenue growth intelligence platform for technographic, firmographic, spend, intent, and market data used for segmentation, targeting, and account prioritization.
-- [Datacircle](https://datacircle.dev/) - A B2B data API that puts several data providers behind one key and one balance at each provider's own price, useful for enriching LinkedIn profile URLs inside GTM workflows.
+- [Datacircle](https://datacircle.dev/) - Datacircle is a data co-op. Query your favorite B2B data APIs through us. Same request, same price, no markup. Every morning, you get the flat file of your data plus everyone else's.
 
 _[Contribute to list!](#contributing)_
 
